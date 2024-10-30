@@ -18,7 +18,8 @@ Dashboard
 
 3. Se agrego un filtro por país para visualizar específicamente algún lugar.
 
-![image](https://github.com/user-attachments/assets/473851f7-35d9-4c5d-b524-ad9ce6ed6042)
+![image](https://github.com/user-attachments/assets/003d2c8b-ee9c-4d36-ac5b-aca1c3d1b74a)
+
 
 
 
